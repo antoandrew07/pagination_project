@@ -9,4 +9,9 @@
 
 .mt-auto {
   margin-top: auto;
+  
+}
+.table-wrapper tbody{
+  min-height: 30px;
+  background-color: aqua;
 }

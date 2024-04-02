@@ -30,7 +30,7 @@ const App = () => {
         <Table striped bordered hover responsive>
           <thead>
             <tr>
-              <th>User Id</th>
+              <th>#</th>
               <th>ID</th>
               <th>Title</th>
               <th>Body</th>
